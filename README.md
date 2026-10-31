@@ -108,13 +108,6 @@ An e-commerce platform promoting traditional crafts and products from Northeast 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathore-tech-code&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
 
 ---
 
