@@ -92,17 +92,17 @@ An e-commerce platform promoting traditional crafts and products from Northeast 
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Presence
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rathore-tech-code&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rathore-tech-code">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathore-tech-code&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Rathore-tech-code&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rathore-tech-code?tab=overview">
+  <img src="https://img.shields.io/badge/View_Contribution_History-238636?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
