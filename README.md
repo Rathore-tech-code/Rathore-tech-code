@@ -108,9 +108,6 @@ An e-commerce platform promoting traditional crafts and products from Northeast 
 
 ---
 
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
